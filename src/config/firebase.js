@@ -1,7 +1,7 @@
 import * as firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAP9mSQtEY8AoStk4qyX5xbMuSuH2diVmo",
+  apiKey: "",
   authDomain: "recettes-ea3bc.firebaseapp.com",
   databaseURL: "https://recettes-ea3bc.firebaseio.com",
   storageBucket: "recettes-ea3bc.appspot.com",
